@@ -25,4 +25,4 @@ jobs:
           org: customer-success-architects
           repo: VariablesYAMLTest
           groups: |
-            Variables/var1.yml 
+            var2.yml 
